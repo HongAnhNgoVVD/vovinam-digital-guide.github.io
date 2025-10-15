@@ -1,16 +1,6 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Pronouns (optional)
-pronouns: she/her
+title: Vovinam Digital Guide
 
 # Status emoji
 status:
@@ -20,43 +10,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+tagline: Basic guide on vovinam.digital platform
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Vovinam Digital
+    url: https://vovinam.digital
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: công ty công nghệ tiên phong trong lĩnh vực chuyển đổi số môn võ Vovinam, với sứ mệnh đưa tinh hoa võ Việt vươn tầm thời đại mới thông qua các giải pháp công nghệ sáng tạo, hiện đại và gần gũi với thế hệ trẻ.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: 'mailto:anh.ngo@vovinam.digital'
+    label: E-mail For Support
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://vovinam.digital"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vovinam Digital là công ty công nghệ tiên phong trong lĩnh vực chuyển đổi số môn võ Vovinam, với sứ mệnh đưa tinh hoa võ Việt vươn tầm thời đại mới thông qua các giải pháp công nghệ sáng tạo, hiện đại và gần gũi với thế hệ trẻ.
+Chúng tôi không chỉ phát triển công nghệ, mà còn định hình tương lai của việc học võ – nơi công nghệ, văn hóa và giáo dục hòa quyện. Vovinam Digital hướng đến xây dựng một hệ sinh thái võ thuật số toàn diện, đưa Vovinam trở thành môn thể chất phổ cập, hiện đại, quốc tế hóa và gần gũi với mọi thế hệ.
